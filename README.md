@@ -68,7 +68,7 @@ This app calculates **5,000,000 prime numbers** using different asynchronous and
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com
+   git clone https://github.com/aniketmmaind/flutter_isolate_demo
    ```
 
 2. Navigate into the project folder:
