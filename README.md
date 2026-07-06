@@ -74,7 +74,7 @@ This app calculates **5,000,000 prime numbers** using different asynchronous and
 2. Navigate into the project folder:
 
    ```bash
-   cd YOUR_REPOSITORY_NAME
+   cd flutter_isolate_demo
    ```
 
 3. Fetch packages:
